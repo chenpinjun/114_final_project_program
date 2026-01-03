@@ -1,7 +1,7 @@
 /*
  Final Edition of the  114-1 Final Project  
 critical numbers,critical numbers
-「、」, x 
+「、」 , x 
 */
 //處理使用者輸入與主程式流程
 #include "poly.h"
